@@ -10,3 +10,9 @@ Init Project with JHipster - AngularX - Spring Boot
 Init seperate Web app in Angular by Angular CLI 
 Implement Angular Material. 
 Struggling with where to go => google for solution, got a demo timesheet project on github built by angular. 
+
+Deciced to build API with rails 5 first 
+API project : 
+https://github.com/hangnhat57/project-S-backend
+WebApp project: 
+https://github.com/hangnhat57/project-S-webapp
