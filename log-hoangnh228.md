@@ -6,7 +6,11 @@ Started on Jan 08, Monday, 2018.
 ## Log
 
 ### D1 (08/01/2018)
-I have started to build my project.
-Init code base, install some package which I need and config some global settings.
-Today maybe I took many times for this easy stuff. Because I met a problem with Homestead and about .dev domain doesn't work on Chrome.
-I researched and fixed them. The first day was not really good, but... keep go ahead :D :D
+- I have started to build my project.
+- Init code base, install some package which I need and config some global settings.
+- Today maybe I took many times for this easy stuff. Because I met a problem with Homestead and about .dev domain doesn't work on Chrome. I researched and fixed them. The first day was not really good, but... keep go ahead :D :D
+
+### D1 (09/01/2018)
+- Today I have made authentication for my app.
+- I took 2 hours for this task, but it didn't work as my purpose. There are some errors that I don't know why.
+- Tomorrow, I will fix and start to build my backend
