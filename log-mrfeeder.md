@@ -12,3 +12,7 @@ Planning to do more tomorrow: create in admin page for space plugin. save text a
 ### D2
 Today I've register for custom post in plugin maybe wrong https://github.com/mrfeeder/plugin-detender/commit/89753b260da95728ced05996e1628dda691e3b43
 Planning to do more tomorrow: create in admin page for space plugin again. create button and install to drag drop plugin
+
+### D3
+Today I've create space for add new button in plugin  https://github.com/mrfeeder/plugin-detender/commit/06e666ac4c0de80b824f70d7566e663d1cb64588
+Planning to do more tomorrow: save in db
