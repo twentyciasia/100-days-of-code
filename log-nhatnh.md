@@ -24,3 +24,9 @@ Create new repo for app :
 https://github.com/hangnhat57/project-S-app
 Learn using angular-token and connect to Rails 5 devise token
 
+### D3 
+Make UI for Front End : 
+Nav bar 
+Login - Sign up Form 
+Learn how to use Angular JWT ( not complete)
+
