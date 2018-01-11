@@ -12,3 +12,6 @@ learned how to authenticate with json web tokens and design database
 ### D2
 Today I implemented the signup function, signin, but they did not work well. 
 At first I had some trouble with mongodb and express js due to lack of experience.
+
+### D3
+Today I was done the signup function. I had some trouble with express route and controller, I spend 2 hours getting to know it.
