@@ -15,7 +15,7 @@ Started on Jan 08, Monday, 2018.
 - I took 2 hours for this task, but it didn't work as my purpose. There are some errors that I don't know why.
 - Tomorrow, I will fix and start to build my backend
 
-### D2 (10/01/2018)
+### D3 (10/01/2018)
 - Today I go out without laptop. So I cannot code.
 - I read book: Laravel Code Smart in 2 hours.
 - I also update log-day late because the same reason.
