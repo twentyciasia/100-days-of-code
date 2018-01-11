@@ -20,6 +20,7 @@ Started on Jan 08, Monday, 2018.
 - I read book: Laravel Code Smart in 2 hours.
 - I also update log-day late because the same reason.
 
+
 ### D4 (11/01/2018)
 - Today I've made multi auth for flatform.
 - Fix some errors about route
