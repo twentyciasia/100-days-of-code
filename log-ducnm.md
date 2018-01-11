@@ -26,3 +26,8 @@ Base Laravel - QuizSystem:
 + Building the database
 + Read some interesting posts: https://github.com/start-angular/SB-Admin-BS4-Angular-5
 
+###D4: (11/1/2018)
++ Update QuizSystem (logout - add black list token and check token error):
+- https://github.com/ducnm9/QuizSystem/commit/feba82b5bed042110ee859f60fcac768d7e91032
++ Experiment material.angular.io
+
