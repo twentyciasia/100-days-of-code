@@ -15,3 +15,7 @@ At first I had some trouble with mongodb and express js due to lack of experienc
 
 ### D3
 Today I was done the signup function. I had some trouble with express route and controller, I spend 2 hours getting to know it.
+
+### D4
+Today I was done the signin function. User login with email and password, if success will be return JWT token, 
+if failed will be return error message.
