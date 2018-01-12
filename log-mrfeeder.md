@@ -20,3 +20,7 @@ Planning to do more tomorrow: save in db
 ### D4
 Today I've read book part html5 up and running 30 munite
 Planning to do more tomorrow: save in db
+
+### D5
+Today I've add more js and css for jquery-ui to use drag and drop. I have not yet to save in db
+Planning to do more tomorrow: save in db
