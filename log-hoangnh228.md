@@ -25,3 +25,8 @@ Started on Jan 08, Monday, 2018.
 - Fix some errors about route
 - Create dummy data.
 - Tomorrow I will start to build blog component.
+
+### D5 (12/01/2018)
+- Today design database for post component
+- Change bootstrap version form 3 to 4 and fix some errors on bootstrap change
+- Tomorrow I will update layout using bootstrap 4
