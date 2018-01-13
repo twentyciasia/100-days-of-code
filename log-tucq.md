@@ -15,3 +15,9 @@ Started on 08/01/2017
     - https://blog.codewithdan.com/2017/08/26/5-key-benefits-of-angular-and-typescript/
     - https://herbertograca.com/2017/10/19/from-cqs-to-cqrs/
 
+### D3
+- Did nothing
+
+### D4
+- Was try to implement CQS in Laravel but no luck http://shawnmc.cool/command-bus
+- Would read more about it before getting hands dirty
