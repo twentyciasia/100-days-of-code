@@ -16,3 +16,11 @@ Planning to do more tomorrow: create in admin page for space plugin again. creat
 ### D3
 Today I've create space for add new button in plugin  https://github.com/mrfeeder/plugin-detender/commit/06e666ac4c0de80b824f70d7566e663d1cb64588
 Planning to do more tomorrow: save in db
+
+### D4
+Today I've read book part html5 up and running 30 munite
+Planning to do more tomorrow: save in db
+
+### D5
+Today I've add more js and css for jquery-ui to use drag and drop. I have not yet to save in db
+Planning to do more tomorrow: save in db
