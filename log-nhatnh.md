@@ -30,3 +30,13 @@ Nav bar
 Login - Sign up Form 
 Learn how to use Angular JWT ( not complete)
 
+
+### D4 
+Learn how to use HttpInterceptor Angular
+Learn about RxJS
+
+### D5
+Complete Login - Register Form on Front End 
+Check if user is logged in 
+Deployed on heroku to test
+
