@@ -21,3 +21,13 @@ Started on 08/01/2017
 ### D4
 - Was try to implement CQS in Laravel but no luck http://shawnmc.cool/command-bus
 - Would read more about it before getting hands dirty
+
+### D5
+- Did nothing
+
+### D6
+- Was working on Angular architecture and comparision with other frameworks
+- Trying to get deeper in Angular
+- Some ref:
+    - https://medium.com/@mnemon1ck/why-you-should-not-use-angularjs-1df5ddf6fc99
+    - https://blog.realworldfullstack.io/
