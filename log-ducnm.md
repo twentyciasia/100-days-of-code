@@ -31,3 +31,10 @@ Base Laravel - QuizSystem:
 - https://github.com/ducnm9/QuizSystem/commit/feba82b5bed042110ee859f60fcac768d7e91032
 + Experiment material.angular.io
 
+###D5: (12/1/2018)
++ Failed. (50k). (24 hours in the hospital)
+
+###D6: (12/1/2018)
++ Experiment https://ng-bootstrap.github.io (QuizApp)
++ Add base module: https://github.com/ducnm9/QuizApp/commit/9e38f8b64e930b40316222d653c28b05e77049e4
+
