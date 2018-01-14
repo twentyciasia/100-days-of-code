@@ -44,3 +44,6 @@ Started : 08-Jan-2018
 - Refactor ng app with auth service + RxJS
 - Read more about Materialize 
 
+### D7
+- Read documents and try this    
+    - https://github.com/Teradata/covalent-quickstart
