@@ -35,3 +35,6 @@ Started on Jan 08, Monday, 2018.
 - Today I've update layout using bootstrap 4 instead of version 3 for both backend and frontend
 - Tomorrow I will start to make article function with TDD
 
+### D7 (14/01/2018)
+- Today I write CRUD for category module with TDD
+- But I meet a problem with test case return http302, I have still not resolved it...
