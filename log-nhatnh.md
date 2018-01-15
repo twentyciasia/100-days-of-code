@@ -47,3 +47,8 @@ Started : 08-Jan-2018
 ### D7
 - Read documents and try this    
     - https://github.com/Teradata/covalent-quickstart
+
+### D8 
+- Learn something new about Ng5 Service worker 
+   - https://medium.com/codingthesmartway-com-blog/angular-5-service-worker-b722e571e306
+- Clone an app from github and read codes to get deeper about Ng Material.   
