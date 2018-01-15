@@ -25,3 +25,6 @@ On the 5th day I created verify JWT middleware and check login function.
 
 ### D6
 On the 6th day I studied mongodb schema and create ConversationSchema, MessageSchema.
+
+### D7
+To day I was implement api create new conversation. 
