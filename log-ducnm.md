@@ -34,11 +34,14 @@ Base Laravel - QuizSystem:
 ###D5: (12/1/2018)
 + Failed. (50k). (24 hours in the hospital)
 
-###D6: (12/1/2018)
+###D6: (13/1/2018)
 + Experiment https://ng-bootstrap.github.io (QuizApp)
 + Add base module: https://github.com/ducnm9/QuizApp/commit/9e38f8b64e930b40316222d653c28b05e77049e4
 
-###D7: (13/1/2018)
+###D7: (14/1/2018)
 + create html page login (QuizApp): https://github.com/ducnm9/QuizApp/commit/9de149e243996b35b72ad583841bf0ac19dacf5d
 + Read more angular 4 Routing and HTTP
+
+###D8: (15/1/2018)
++ Today I've detection error refresh token JWT, I'm debug. 
 
