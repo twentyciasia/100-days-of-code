@@ -38,3 +38,9 @@ Started on Jan 08, Monday, 2018.
 ### D7 (14/01/2018)
 - Today I write CRUD for category module with TDD
 - But I meet a problem with test case return http302, I have still not resolved it...
+
+### D8 (14/01/2018)
+- Today I resolved my problem about test case return http302
+- But I don't know why it still return false with many errors :/
+- Working with it for more than 1 hour but still not done.
+- Keep trying to catch it.
