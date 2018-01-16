@@ -38,3 +38,7 @@ Planning to do more tomorrow: save in db
 ### D8
 Today I've add css and add elements for drag and drop. I have not yet to save in db.
 Planning to do more tomorrow: create function or make drag and drop ok.
+
+### D9
+Today I've add js for drag and drop.
+Planning to do more tomorrow: check and fix make drag and drop ok.
