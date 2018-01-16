@@ -45,3 +45,6 @@ Base Laravel - QuizSystem:
 ###D8: (15/1/2018)
 + Today I've detection error refresh token JWT, I'm debug. 
 
+###D9: (16/1/2018)
++ Data Analysis for Database Design.
+
