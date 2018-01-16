@@ -51,4 +51,8 @@ Started : 08-Jan-2018
 ### D8 
 - Learn something new about Ng5 Service worker 
    - https://medium.com/codingthesmartway-com-blog/angular-5-service-worker-b722e571e306
-- Clone an app from github and read codes to get deeper about Ng Material.   
+- Clone an app from github and read codes to get deeper about Ng Material.  
+
+### D9
+- Apply material to Angular App
+- Make Css to look nicer ( Gonna ask Thanh for helping :)  
