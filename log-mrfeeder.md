@@ -42,3 +42,7 @@ Planning to do more tomorrow: create function or make drag and drop ok.
 ### D9
 Today I've add js for drag and drop.
 Planning to do more tomorrow: check and fix make drag and drop ok.
+
+### D10
+Today I've fix js for drag and drop to ok and start to set for element column.
+Planning to do more tomorrow: set value for rest elements. and i will set for dropable in drop
