@@ -48,3 +48,7 @@ Started on Jan 08, Monday, 2018.
 ### D9 (16/01/2018)
 - Today I nearly finish category module with TDD
 - I will finish on tomorrow
+
+### D10 (17/01/2018)
+- Today I've finished module category with TDD
+- Tomorrow I will move on Post module
