@@ -24,3 +24,21 @@ Planning to do more tomorrow: save in db
 ### D5
 Today I've add more js and css for jquery-ui to use drag and drop. I have not yet to save in db
 Planning to do more tomorrow: save in db
+
+### D6
+Today I've add more js and css for bootstrap and change from table to use div to easy control. I have not yet to save in db
+Planning to do more tomorrow: save in db
+
+
+### D7
+Today I've fix part of js and css for bootstrap and jquery ui. the before I get something wrong with thing get part same template theme usually use. add more tab and split part. one of element something like box, div bla bla. one of properties something like class, id, style bla la. and last in my oponion i wil set to set col for it. maybe like row, column section. I have not yet to save in db
+Planning to do more tomorrow: save in db
+
+
+### D8
+Today I've add css and add elements for drag and drop. I have not yet to save in db.
+Planning to do more tomorrow: create function or make drag and drop ok.
+
+### D9
+Today I've add js for drag and drop.
+Planning to do more tomorrow: check and fix make drag and drop ok.
