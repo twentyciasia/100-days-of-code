@@ -32,3 +32,6 @@ To day I was implement api create new conversation.
 ### D8
 To day I was implement api get conversations with latest message. I had some trouble with node server, server doesn't work
 from 2nd request onwards and I spend a lot of time to fixing it.
+
+### D9
+To day I was implement api create new message, and read about angular and express combination.
