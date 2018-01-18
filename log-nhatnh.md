@@ -56,3 +56,8 @@ Started : 08-Jan-2018
 ### D9
 - Apply material to Angular App
 - Make Css to look nicer ( Gonna ask Thanh for helping :)  
+
+### D10
+- Make form for Login - Register
+- Dress up UI ( still too ugly :) )
+- Refactor code to fit with new components
