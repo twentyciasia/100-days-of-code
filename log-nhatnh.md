@@ -61,3 +61,7 @@ Started : 08-Jan-2018
 - Make form for Login - Register
 - Dress up UI ( still too ugly :) )
 - Refactor code to fit with new components
+
+### D11
+- Dress up UI
+- Re-write handle login success functions.
