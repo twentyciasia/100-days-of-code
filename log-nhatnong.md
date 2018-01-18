@@ -35,3 +35,6 @@ from 2nd request onwards and I spend a lot of time to fixing it.
 
 ### D9
 To day I was implement api create new message, and read about angular and express combination.
+
+### D10
+To day I created chat client using angular app and login UI.
