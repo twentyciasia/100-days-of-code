@@ -47,3 +47,8 @@ Started on 08/01/2017
     - https://softwaremill.com/entry-level-event-sourcing/
     - https://laracasts.com/lessons/laravel-5-commands
 
+### D11
+- Implementing Command pattern on Laravel but no luck
+- Getting bored, switching to learn about how to use RxJS in Angular
+    - https://blog.strongbrew.io/rxjs-best-practices-in-angular/
+
