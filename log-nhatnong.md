@@ -38,3 +38,6 @@ To day I was implement api create new message, and read about angular and expres
 
 ### D10
 To day I created chat client using angular app and login UI.
+
+### D11
+To day I learned about data binding and form in Angular 4.
