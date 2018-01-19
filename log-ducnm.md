@@ -48,3 +48,11 @@ Base Laravel - QuizSystem:
 ###D9: (16/1/2018)
 + Data Analysis for Database Design.
 
+###D10: (17/1/2018)
++ Failed (50k)
+
+###D11: (18/1/2018)
++ create Multi-language (QuizApp) (not complete)
++ Learn more rxjs and practice example http://reactivex.io/
+
+
