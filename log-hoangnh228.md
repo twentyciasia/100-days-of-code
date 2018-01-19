@@ -52,3 +52,9 @@ Started on Jan 08, Monday, 2018.
 ### D10 (17/01/2018)
 - Today I've finished module category with TDD
 - Tomorrow I will move on Post module
+
+### D11 (18/01/2018)
+- This evening I didn't have many time to use laptop
+- So I just create post table and fake some data for it
+- I also have problem with TDD when use factory relationship
+- Will resolve it and continue on tomorrow.
