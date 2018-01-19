@@ -45,8 +45,11 @@ Planning to do more tomorrow: check and fix to make drag and drop ok.
 
 ### D10
 Today I've fix js for drag and drop to ok and start to set for element column.
-Planning to do more tomorrow: set value for rest elements. and I will set for dropable in the drop
 
 ### D11
 Today I am continuos for the job, that fix js for drag and drop to ok. I convert from button to div and add some styles to it
 Planning to do more tomorrow: set value for rest elements. and I will set for dropable in drop
+
+### D12
+Today I tried to save post in DB and fix drag and drop function but not successful
+Planning to do more tomorrow: I will try to again. I try to my lucky
