@@ -53,3 +53,7 @@ Planning to do more tomorrow: set value for rest elements. and I will set for dr
 ### D12
 Today I tried to save post in DB and fix drag and drop function but not successful
 Planning to do more tomorrow: I will try to again. I try to my lucky
+
+### D13
+Today I tried to save post with other function maybe successful =))))
+Planning to do more tomorrow: I will try to apply that logic to my function to save my plugin. I try to my lucky
