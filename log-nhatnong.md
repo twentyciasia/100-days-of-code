@@ -41,3 +41,6 @@ To day I created chat client using angular app and login UI.
 
 ### D11
 To day I learned about data binding and form in Angular 4.
+
+### D12
+To day I created client login request and save JWT token to local storage.
