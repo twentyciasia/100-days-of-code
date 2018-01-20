@@ -60,3 +60,7 @@ Base Laravel - QuizSystem:
 + I read book "ng-book 2: The Complete Book on Angular 5".
 + Link Book Share: https://drive.google.com/file/d/1GZTymNF2KNmtXufLssaf-wRxi1wsdHro/view?usp=sharing 
 
+###D13: (20/1/2018)
++ Learn and experiment https://github.com/auth0/angular-jwt
++ Due to VietNam win Irap, I will no code.
+
