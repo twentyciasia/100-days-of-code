@@ -55,4 +55,12 @@ Base Laravel - QuizSystem:
 + create Multi-language (QuizApp) (not complete)
 + Learn more rxjs and practice example http://reactivex.io/
 
+###D12: (19/1/2018)
++ Done base Multi-language (QuizApp)  https://github.com/ducnm9/QuizApp/commit/9721c6d82a1f527d7512422d36be4963663fb9eb
++ I read book "ng-book 2: The Complete Book on Angular 5".
++ Link Book Share: https://drive.google.com/file/d/1GZTymNF2KNmtXufLssaf-wRxi1wsdHro/view?usp=sharing 
+
+###D13: (20/1/2018)
++ Learn and experiment https://github.com/auth0/angular-jwt
++ Due to VietNam win Irap, I will no code.
 
