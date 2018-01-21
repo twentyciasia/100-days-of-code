@@ -58,3 +58,8 @@ Started on Jan 08, Monday, 2018.
 - So I just create post table and fake some data for it
 - I also have problem with TDD when use factory relationship
 - Will resolve it and continue on tomorrow.
+
+### D12 (19/01/2018)
+- Today I've done admin post index page with TDD
+- Customize pagination with bootstrap 4
+- Find a WYSIWYG for bootstrap 4
