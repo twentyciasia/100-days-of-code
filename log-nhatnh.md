@@ -65,3 +65,7 @@ Started : 08-Jan-2018
 ### D11
 - Dress up UI
 - Re-write handle login success functions.
+
+### D12
+- Today I don't code much , just spent 15 min for current project
+- Study - Read some articles about performance - security testing
