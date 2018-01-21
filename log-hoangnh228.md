@@ -63,3 +63,7 @@ Started on Jan 08, Monday, 2018.
 - Today I've done admin post index page with TDD
 - Customize pagination with bootstrap 4
 - Find a WYSIWYG for bootstrap 4
+
+### D13 (20/01/2018)
+- Today I went out without laptop and the log update was to be late.
+- So I continue to read last book on my iPorn: Laravel Code Smart
