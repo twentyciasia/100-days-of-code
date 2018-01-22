@@ -57,3 +57,7 @@ Planning to do more tomorrow: I will try to again. I try to my lucky
 ### D13
 Today I tried to save post with other function maybe successful =))))
 Planning to do more tomorrow: I will try to apply that logic to my function to save my plugin. I try to my lucky
+
+### D14
+Today I tried to drag drop in drop but not success.
+Planning to do more tomorrow: I will try again
