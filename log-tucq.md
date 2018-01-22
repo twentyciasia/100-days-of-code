@@ -64,3 +64,7 @@ Started on 08/01/2017
 ### D14
 - Laravel renames "Commands" to "Jobs" since 5.1 => Quite hard to apply cause "Command" sticked in head
 - Can't find enough attitude to type code in that context. Damn it.
+
+### D15
+- Working on setup better dev flow with Anguar CLI
+- Need to "think" before start to "code"
