@@ -64,3 +64,6 @@ Base Laravel - QuizSystem:
 + Learn and experiment https://github.com/auth0/angular-jwt
 + Due to VietNam win Irap, I will no code.
 
+###D14: (21/1/2018)
++ create html page Register/Forgot password (QuizApp) https://github.com/ducnm9/QuizApp/commit/f90f9f102dd773a511ac3d58d568be4ae59719e0
++ read more book "ng-book 2"
