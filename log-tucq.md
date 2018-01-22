@@ -52,3 +52,15 @@ Started on 08/01/2017
 - Getting bored, switching to learn about how to use RxJS in Angular
     - https://blog.strongbrew.io/rxjs-best-practices-in-angular/
 
+### D12
+- Not much time on coding
+- Few reads on comparision between Angular and VueJS
+    - http://blog.advaitsolutions.in/2018/01/17/angular-vs-vuejs-2017-comparison-off-frameworks-one-better/
+
+### D13
+- No code. Vietnam vo dich
+- Actually I do few reading but can't find links to re-post here.
+
+### D14
+- Laravel renames "Commands" to "Jobs" since 5.1 => Quite hard to apply cause "Command" sticked in head
+- Can't find enough attitude to type code in that context. Damn it.
