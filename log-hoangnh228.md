@@ -67,3 +67,9 @@ Started on Jan 08, Monday, 2018.
 ### D13 (20/01/2018)
 - Today I went out without laptop and the log update was to be late.
 - So I continue to read last book on my iPorn: Laravel Code Smart
+
+### D14 (21/01/2018)
+- Today I've completed create new post function with TDD
+- Integrate WYSIWYG into my app.
+- Try to use some new feature in Laravel 5.5
+
