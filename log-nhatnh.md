@@ -69,3 +69,10 @@ Started : 08-Jan-2018
 ### D12
 - Today I don't code much , just spent 15 min for current project
 - Study - Read some articles about performance - security testing
+
+### D13 
+- I'm drunk then did not thing
+
+### D14 
+- Still working on Performance Testing practices
+- Research Angular TestBed API
