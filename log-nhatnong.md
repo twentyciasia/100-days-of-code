@@ -38,3 +38,12 @@ To day I was implement api create new message, and read about angular and expres
 
 ### D10
 To day I created chat client using angular app and login UI.
+
+### D11
+To day I learned about data binding and form in Angular 4.
+
+### D12
+To day I created client login request and save JWT token to local storage.
+
+### D13
+To day I imported Angular Route to my project.
