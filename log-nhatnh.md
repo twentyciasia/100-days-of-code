@@ -76,3 +76,8 @@ Started : 08-Jan-2018
 ### D14 
 - Still working on Performance Testing practices
 - Research Angular TestBed API
+
+### D15
+- Got some trouble with internet connection so I didn't code too much
+- Create Profile router, Profile page on app
+- Long time no use, Read Rails 5 API documents. 
