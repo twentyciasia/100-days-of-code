@@ -50,3 +50,10 @@ To day I imported Angular Route to my project.
 
 ### D14
 To day I created client UI, contact list & conversation.
+
+### D15
+To day I went out to celebrate the U23 football team victory and return home too late. I read about Angular form validation for 30'.
+
+### D15
+I have updated dashboard page, split dashboard page to small component (conversations, messages).
+I've created request to get conversations data, but it's not finished yet.
