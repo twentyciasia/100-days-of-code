@@ -68,3 +68,6 @@ Started on 08/01/2017
 ### D15
 - Working on setup better dev flow with Anguar CLI
 - Need to "think" before start to "code"
+
+### D16
+- Di bão
