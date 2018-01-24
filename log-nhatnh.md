@@ -81,3 +81,10 @@ Started : 08-Jan-2018
 - Got some trouble with internet connection so I didn't code too much
 - Create Profile router, Profile page on app
 - Long time no use, Read Rails 5 API documents. 
+
+### D16
+- Vietnam vo dich 
+
+### D17
+- Back to ng app, Continous refactor register services to fit with new Material UI. 
+- Read some posts about ngRx, will try tomorrow.
