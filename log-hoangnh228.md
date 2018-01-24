@@ -73,3 +73,13 @@ Started on Jan 08, Monday, 2018.
 - Integrate WYSIWYG into my app.
 - Try to use some new feature in Laravel 5.5
 
+### D15 (22/01/2018)
+- Today I've completed update new post function with TDD
+- Find the reason why testcase return false
+- Tomorrow I will finish post module, update and optimize some functions and testcases.
+
+### D16 (24/01/2018)
+- Today I had some change in code
+- Require some package and config them
+- Update form with Collectivehtml but not complete at all
+- Tomorrow I will continue to improve.
