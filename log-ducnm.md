@@ -72,3 +72,7 @@ Base Laravel - QuizSystem:
 + Build Angular Authentication (QuizApp) (not complete)
 + read more example and tutorial
 
+###D16: (23/1/2018)
++ "Vietnam Champion"
++ Base Angular JWT https://github.com/ducnm9/QuizApp/commit/819b24a6b634f465a67ff48d20359f8a16bab8c6
+
