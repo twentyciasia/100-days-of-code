@@ -57,3 +57,7 @@ To day I went out to celebrate the U23 football team victory and return home too
 ### D16
 I have updated dashboard page, split dashboard page to small component (conversations, messages).
 I've created request to get conversations data, but it's not finished yet.
+
+### D17
+I tried to retrieve conversations data from api but I have some problem with http request, 
+I cant not set authorization header. I will ask for help tomorrow.
