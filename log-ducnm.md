@@ -67,3 +67,15 @@ Base Laravel - QuizSystem:
 ###D14: (21/1/2018)
 + create html page Register/Forgot password (QuizApp) https://github.com/ducnm9/QuizApp/commit/f90f9f102dd773a511ac3d58d568be4ae59719e0
 + read more book "ng-book 2"
+
+###D15: (22/1/2018)
++ Build Angular Authentication (QuizApp) (not complete)
++ read more example and tutorial
+
+###D16: (23/1/2018)
++ "Vietnam Champion"
++ Base Angular JWT https://github.com/ducnm9/QuizApp/commit/819b24a6b634f465a67ff48d20359f8a16bab8c6
+
+###D17: (24/1/2018)
++ update check auth url and login (data facke) https://github.com/ducnm9/QuizApp/commit/12980e6b6b0fbdde82e5a99ab04fc1b67619c2d6
+

@@ -61,3 +61,16 @@ Planning to do more tomorrow: I will try to apply that logic to my function to s
 ### D14
 Today I tried to drag drop in drop but not success.
 Planning to do more tomorrow: I will try again
+
+
+### D15
+Today I tried to split file funtion to multip file to easy control .
+Planning to do more tomorrow: I will try continuos
+
+### D16
+Today I did the job of yesterday. It is split file funtion to multip file to easy control .
+Planning to do more tomorrow: I will research and work with save or drag drop function.
+
+### D17
+Today I worked with save function but not done.
+Planning to do more tomorrow: I will research and work continuos.
