@@ -88,3 +88,10 @@ Started : 08-Jan-2018
 ### D17
 - Back to ng app, Continous refactor register services to fit with new Material UI. 
 - Read some posts about ngRx, will try tomorrow.
+
+
+### D18
+- Following tutorial on Ultimate Angular to get deeper in RxJS
+- Research some articles on Viblo about RxJS
+- Continous with auth services, currently my result is not emitted to my services. 
+
