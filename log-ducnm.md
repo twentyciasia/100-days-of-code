@@ -76,3 +76,6 @@ Base Laravel - QuizSystem:
 + "Vietnam Champion"
 + Base Angular JWT https://github.com/ducnm9/QuizApp/commit/819b24a6b634f465a67ff48d20359f8a16bab8c6
 
+###D17: (24/1/2018)
++ update check auth url and login (data facke) https://github.com/ducnm9/QuizApp/commit/12980e6b6b0fbdde82e5a99ab04fc1b67619c2d6
+
