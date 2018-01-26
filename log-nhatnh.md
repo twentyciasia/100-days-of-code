@@ -95,3 +95,6 @@ Started : 08-Jan-2018
 - Research some articles on Viblo about RxJS
 - Continous with auth services, currently my result is not emitted to my services. 
 
+### D19
+- Try implement new UI theme.
+- Fix yesterday issues.
