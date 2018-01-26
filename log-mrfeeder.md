@@ -74,3 +74,7 @@ Planning to do more tomorrow: I will research and work with save or drag drop fu
 ### D17
 Today I worked with save function but not done.
 Planning to do more tomorrow: I will research and work continuos.
+
+### D18
+Today I'v read book vietnamese langue "lược sử thời gian" my computer so bad.
+Planning to do more tomorrow: "viet nam vo dich".
