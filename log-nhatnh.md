@@ -98,3 +98,8 @@ Started : 08-Jan-2018
 ### D19
 - Try implement new UI theme.
 - Fix yesterday issues.
+
+### D20
+- Protect route if user doesn't signed in 
+- Working on Rails project , create Book , Work model 
+- create controller to get data
