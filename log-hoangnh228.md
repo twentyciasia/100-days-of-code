@@ -91,3 +91,9 @@ Started on Jan 08, Monday, 2018.
 - Today I take 40 mins for continue reading Laravel Code Smart book
 - And about 30 mins for code
 - Continue refactor in code and TDD
+
+### D19 (26/01/2018)
+- Today I've finish Post module with TDD
+- Refactor the code
+- Tomorrow I will move on other module (maybe Tag)
+
