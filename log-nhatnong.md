@@ -68,3 +68,6 @@ Get list conversations and learn how to pass data to child component.
 
 ### D19
 To day I worked on conversations component, get data from api and display on UI.
+
+### D19
+To day I created api get all message in conversation and send request get all messages. 
