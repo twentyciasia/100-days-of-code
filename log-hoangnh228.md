@@ -86,3 +86,8 @@ Started on Jan 08, Monday, 2018.
 - Require some package and config them
 - Update form with Collectivehtml but not complete at all
 - Tomorrow I will continue to improve.
+
+### D18 (25/01/2018)
+- Today I take 40 mins for continue reading Laravel Code Smart book
+- And about 30 mins for code
+- Continue refactor in code and TDD
