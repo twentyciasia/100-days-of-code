@@ -82,3 +82,8 @@ Planning to do more tomorrow: "viet nam vo dich".
 ### D19
 Today Viet Nam not best. so i come back to try my "drag and drop" function.
 Planning to do more tomorrow: i will do it continue
+
+### D20
+I detect for the bug. The bug is why after dropable do not use to drag element. because elements inside it is maybe layer behind. not in front of drop area.  I try to use z index but not a success and I try position have the same.
+after I change to use the outer box to append content maybe I fixed this bug. but it raises a new bug
+Planning to do more tomorrow: i will do it continue.
