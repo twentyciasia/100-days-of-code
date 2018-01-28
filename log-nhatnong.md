@@ -53,3 +53,21 @@ To day I created client UI, contact list & conversation.
 
 ### D15
 To day I went out to celebrate the U23 football team victory and return home too late. I read about Angular form validation for 30'.
+
+### D16
+I have updated dashboard page, split dashboard page to small component (conversations, messages).
+I've created request to get conversations data, but it's not finished yet.
+
+### D17
+I tried to retrieve conversations data from api but I have some problem with http request, 
+I cant not set authorization header. I will ask for help tomorrow.
+
+### D18
+I have resolved http problem. The reason is server nodejs not allow cross orgin header.
+Get list conversations and learn how to pass data to child component.
+
+### D19
+To day I worked on conversations component, get data from api and display on UI.
+
+### D19
+To day I created api get all message in conversation and send request get all messages. 
