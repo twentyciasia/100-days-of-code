@@ -103,3 +103,7 @@ Started : 08-Jan-2018
 - Protect route if user doesn't signed in 
 - Working on Rails project , create Book , Work model 
 - create controller to get data
+
+### D21 
+- Still working on Rails API
+- Refactor codes
