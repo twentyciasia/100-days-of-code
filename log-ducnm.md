@@ -79,3 +79,18 @@ Base Laravel - QuizSystem:
 ###D17: (24/1/2018)
 + update check auth url and login (data facke) https://github.com/ducnm9/QuizApp/commit/12980e6b6b0fbdde82e5a99ab04fc1b67619c2d6
 
+###D18: (25/1/2018)
++ Learn how to use RxJS (Hard to understand).
++ refactor code base angular.
+
+###D19: (26/1/2018)
++ Build demoAngular5 https://github.com/ducnm9/demoAngular5
++ Learn more rxjs/Observable, rxjs/operators
+
+###D20: (27/1/2018)
++ Build demoAngular5 https://github.com/ducnm9/demoAngular5
++ Learn more json-server for fake api https://github.com/typicode/json-server
+
+###D21: (28/1/2018)
++ Build demoAngular5 https://github.com/ducnm9/demoAngular5
++ Learn more rxjs/operators (debounceTime, distinctUntilChanged, switchMap)
