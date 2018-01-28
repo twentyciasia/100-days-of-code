@@ -76,3 +76,32 @@ Started on 08/01/2017
 - Was a bit tired, I listened to Podcast instead http://www.fullstackradio.com/80
 - Quite interesting, I've spent 2 months to learn about bulding multi-tenants web app, found this
 podcast very useful.
+
+### D18
+- Learning on how to upgrade Angular from 4 to 5
+    - https://angular-update-guide.firebaseapp.com/
+    - https://alligator.io/angular/angular-5/
+-
+
+### D19
+- Learning how to apply Prettier, pretty cool but wasting time.
+    - https://prettier.io/
+- Quick look on DDD
+    - https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/ddd-oriented-microservice
+
+### D20
+- Off day, so sad don't want to work.
+
+### D21
+- Learned some ideas on applying "Command pattern" or "CQRS"
+    - https://gist.github.com/davidhemphill/3254b3954be5f01bba35
+    - https://stackoverflow.com/questions/29916468/what-should-be-returned-from-the-api-for-cqrs-commands
+    - http://tactician.thephpleague.com/
+    - https://www.sitepoint.com/command-buses-demystified-a-look-at-the-tactician-package/
+- Learned great ideas on using Traits in PHP
+    - http://rosstuck.com/how-i-use-traits
+- Should prepare a list of todos when start project (Laravel) from scratch:
+    - Handle validation exception
+    - List of handle artisan commands
+    - ...
+
