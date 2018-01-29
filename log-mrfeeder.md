@@ -87,3 +87,8 @@ Planning to do more tomorrow: i will do it continue
 I detect for the bug. The bug is why after dropable do not use to drag element. because elements inside it is maybe layer behind. not in front of drop area.  I try to use z index but not a success and I try position have the same.
 after I change to use the outer box to append content maybe I fixed this bug. but it raises a new bug
 Planning to do more tomorrow: i will do it continue.
+
+
+### D21
+stuck everywhere. i searched but not ok. it dont help me anything. stuck and stuck
+Planning to do more tomorrow: help nhatnguyen frontend and find solution for my mind
