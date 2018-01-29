@@ -107,3 +107,7 @@ Started : 08-Jan-2018
 ### D21 
 - Still working on Rails API
 - Refactor codes
+
+### D22 
+- Learn RxJS from link https://www.tiepphan.com/rxjs-reactive-programming/ Duc shared
+- Write a service to execute http POST from angular to rails
