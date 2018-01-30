@@ -92,3 +92,8 @@ Planning to do more tomorrow: i will do it continue.
 ### D21
 stuck everywhere. i searched but not ok. it dont help me anything. stuck and stuck
 Planning to do more tomorrow: help nhatnguyen frontend and find solution for my mind
+
+
+### D22
+Today I pulled all code of nhatnguyen. and I installed npm node nvm
+Planning to do more tomorrow: help nhatnguyen frontend and find solution for my mind
