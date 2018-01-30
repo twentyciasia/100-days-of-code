@@ -111,3 +111,7 @@ Started : 08-Jan-2018
 ### D22 
 - Learn RxJS from link https://www.tiepphan.com/rxjs-reactive-programming/ Duc shared
 - Write a service to execute http POST from angular to rails
+
+### D23
+- Continue writing service to POST data to rails
+- Refactor codes
