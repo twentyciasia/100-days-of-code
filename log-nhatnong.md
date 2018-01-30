@@ -71,3 +71,9 @@ To day I worked on conversations component, get data from api and display on UI.
 
 ### D19
 To day I created api get all message in conversation and send request get all messages. 
+
+### D20
+To day I created messages UI & read how to use @Input get data from parent component.
+
+### D21
+To day I have some trouble with observable, I can't update UI after receive response from http request.
