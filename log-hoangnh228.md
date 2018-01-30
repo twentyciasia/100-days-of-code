@@ -97,3 +97,9 @@ Started on Jan 08, Monday, 2018.
 - Refactor the code
 - Tomorrow I will move on other module (maybe Tag)
 
+### D20 - 21 - 22 (27 - 29/01/2018)
+I was off 3 days (go to hometown without laptop and internet), no code and only read books for a little times
+
+### D23 (30/01/2018)
+- Today I focused on new module: Tag for Post
+- Create migration, fake some dummy data and set relationship with other tables
