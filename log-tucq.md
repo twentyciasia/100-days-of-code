@@ -105,3 +105,8 @@ podcast very useful.
     - List of handle artisan commands
     - ...
 
+### D22
+- Good intro on VueJS
+    - https://speakerdeck.com/mattstauffer/intro-to-vuejs
+- Re-learn on custom Laravel
+    - https://customlaravel.com/
