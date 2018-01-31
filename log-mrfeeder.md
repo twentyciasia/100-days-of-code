@@ -97,3 +97,8 @@ Planning to do more tomorrow: help nhatnguyen frontend and find solution for my 
 ### D22
 Today I pulled all code of nhatnguyen. and I installed npm node nvm
 Planning to do more tomorrow: help nhatnguyen frontend and find solution for my mind
+
+
+### D23
+Today I dont wanna code. I read a book of type Science Fiction. it talks about in our worl help meny power have plan dominate the worl. in them, it has one. make people strong by technology supper-era. by biochemjcal.... bla bla
+Planning to do more tomorrow: help nhatnguyen frontend and find solution for my mind
