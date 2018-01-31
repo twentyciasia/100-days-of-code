@@ -103,3 +103,7 @@ I was off 3 days (go to hometown without laptop and internet), no code and only 
 ### D23 (30/01/2018)
 - Today I focused on new module: Tag for Post
 - Create migration, fake some dummy data and set relationship with other tables
+
+### D24 (31/01/2018)
+- Today I've completed Tag module
+- Tomorrow I will write TDD for it and make it workable with Post module
