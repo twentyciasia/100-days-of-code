@@ -94,3 +94,16 @@ Base Laravel - QuizSystem:
 ###D21: (28/1/2018)
 + Build demoAngular5 https://github.com/ducnm9/demoAngular5
 + Learn more rxjs/operators (debounceTime, distinctUntilChanged, switchMap)
+
+###D22: (29/1/2018)
++ Read blog https://www.tiepphan.com/rxjs-reactive-programming
++ Write example compare map or tap.
+
+###D23: (30/1/2018)
++ Walking code 
+- https://github.com/ducnm9/QuizApp/commit/d9be518a82b007d856492a7588c9009012220353
+- https://github.com/ducnm9/QuizSystem/commit/779438664835ffe9c135ef1c18343cf72e9a1c1a
+
+###D24: (31/1/2018)
++ Update logic register form (API+App)
++ Read blog
