@@ -103,3 +103,15 @@ Started : 08-Jan-2018
 - Protect route if user doesn't signed in 
 - Working on Rails project , create Book , Work model 
 - create controller to get data
+
+### D21 
+- Still working on Rails API
+- Refactor codes
+
+### D22 
+- Learn RxJS from link https://www.tiepphan.com/rxjs-reactive-programming/ Duc shared
+- Write a service to execute http POST from angular to rails
+
+### D23
+- Continue writing service to POST data to rails
+- Refactor codes
