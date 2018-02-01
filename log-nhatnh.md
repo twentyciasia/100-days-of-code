@@ -115,3 +115,11 @@ Started : 08-Jan-2018
 ### D23
 - Continue writing service to POST data to rails
 - Refactor codes
+
+### D24
+- Continue read RxJS from previous article
+
+### D25 
+- Leave Project as Pending
+- Read, practice with Jenkins Azure - AWS. 
+- Read "Jenkins essentials - Second Edition" - Chapter 3 : Manage Code Quality + Chapter 7: Pipeline as Code
