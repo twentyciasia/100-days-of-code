@@ -77,3 +77,6 @@ To day I created messages UI & read how to use @Input get data from parent compo
 
 ### D21
 To day I have some trouble with observable, I can't update UI after receive response from http request.
+
+### D22
+To day I returned hom late, and I did not code anything, I read about Event in Angular 4.
