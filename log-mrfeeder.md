@@ -82,3 +82,28 @@ Planning to do more tomorrow: "viet nam vo dich".
 ### D19
 Today Viet Nam not best. so i come back to try my "drag and drop" function.
 Planning to do more tomorrow: i will do it continue
+
+### D20
+I detect for the bug. The bug is why after dropable do not use to drag element. because elements inside it is maybe layer behind. not in front of drop area.  I try to use z index but not a success and I try position have the same.
+after I change to use the outer box to append content maybe I fixed this bug. but it raises a new bug
+Planning to do more tomorrow: i will do it continue.
+
+
+### D21
+stuck everywhere. i searched but not ok. it dont help me anything. stuck and stuck
+Planning to do more tomorrow: help nhatnguyen frontend and find solution for my mind
+
+
+### D22
+Today I pulled all code of nhatnguyen. and I installed npm node nvm
+Planning to do more tomorrow: help nhatnguyen frontend and find solution for my mind
+
+
+### D23
+Today I dont wanna code. I read a book of type Science Fiction. it talks about in our worl help meny power have plan dominate the worl. in them, it has one. make people strong by technology supper-era. by biochemjcal.... bla bla
+Planning to do more tomorrow: help nhatnguyen frontend and find solution for my mind
+
+
+### D24
+Today I discard with nhatnguyen to working in to his project. i and nhatnguyen fix my environment to lunch in other operator system. (i run project in window). and plan for this project
+Planning to do more tomorrow: help nhatnguyen frontend home page
