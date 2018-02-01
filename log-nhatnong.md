@@ -80,3 +80,6 @@ To day I have some trouble with observable, I can't update UI after receive resp
 
 ### D22
 To day I returned hom late, and I did not code anything, I read about Event in Angular 4.
+
+### D23
+To day I updated get conversation message api.
