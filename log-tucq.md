@@ -110,3 +110,11 @@ podcast very useful.
     - https://speakerdeck.com/mattstauffer/intro-to-vuejs
 - Re-learn on custom Laravel
     - https://customlaravel.com/
+
+### D23
+- Quite tired, just read some random articles on comparing: Go n .NET Core, Angular with React, and
+RxJS
+
+### D24
+- Re-thinking on building CQRS app or EventSourcing app, CQRS is kind of limiting
+- Read more on Event Sourcing.
