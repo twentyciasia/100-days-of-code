@@ -83,3 +83,6 @@ To day I returned hom late, and I did not code anything, I read about Event in A
 
 ### D23
 To day I updated get conversation message api.
+
+### D24
+Display all messages in conversation.
