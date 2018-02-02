@@ -107,3 +107,8 @@ I was off 3 days (go to hometown without laptop and internet), no code and only 
 ### D24 (31/01/2018)
 - Today I've completed Tag module
 - Tomorrow I will write TDD for it and make it workable with Post module
+
+### D25 (01/02/2018)
+- Today don't have any code
+- I've just read new book: Full Stack Vue.js and Laravel
+- Prepare for change my code for back-end first using Vue.js
