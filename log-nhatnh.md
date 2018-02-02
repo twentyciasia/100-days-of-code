@@ -122,4 +122,10 @@ Started : 08-Jan-2018
 ### D25 
 - Leave Project as Pending
 - Read, practice with Jenkins Azure - AWS. 
-- Read "Jenkins essentials - Second Edition" - Chapter 3 : Manage Code Quality + Chapter 7: Pipeline as Code
+- Read "Jenkint essentials - Second Edition" - Chapter 3 : Manage Code Quality + Chapter 7: Pipeline as Code
+
+### D26
+- Continue Read Jenkins ebook 
+- Learn using vim 
+- Learn deeper Jenkins in https://www.devopslibrary.com/lessons/jenkins-ha 
+
