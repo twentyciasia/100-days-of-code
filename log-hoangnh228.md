@@ -112,3 +112,8 @@ I was off 3 days (go to hometown without laptop and internet), no code and only 
 - Today don't have any code
 - I've just read new book: Full Stack Vue.js and Laravel
 - Prepare for change my code for back-end first using Vue.js
+
+### D26 (02/02/2018)
+- Today I still don't have any code
+- Keep reading book.
+
