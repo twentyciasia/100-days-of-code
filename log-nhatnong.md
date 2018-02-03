@@ -86,3 +86,6 @@ To day I updated get conversation message api.
 
 ### D24
 Display all messages in conversation.
+
+### D25
+To day I read about http service layer because I returned home late.
