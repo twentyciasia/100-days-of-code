@@ -107,3 +107,22 @@ Base Laravel - QuizSystem:
 ###D24: (31/1/2018)
 + Update logic register form (API+App)
 + Read blog
+
+###D25: (1/2/2018)
++ read guide angular 5 Form Validation
++ https://codecraft.tv/courses/angular/forms/model-driven-validation/
++ https://angular.io/guide/architecture
+
+###D26: (2/2/2018)
++ Not much time on coding. Because too tired, need to take a rest.
+
+###D27: (3/2/2018)
++ 
++
+
+###D28: (4/2/2018)
++
++
+
+
+
