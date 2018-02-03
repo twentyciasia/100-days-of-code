@@ -129,3 +129,5 @@ Started : 08-Jan-2018
 - Learn using vim 
 - Learn deeper Jenkins in https://www.devopslibrary.com/lessons/jenkins-ha 
 
+### D27
+- Did nothing, I missed this day 
