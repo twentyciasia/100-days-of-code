@@ -107,3 +107,11 @@ Planning to do more tomorrow: help nhatnguyen frontend and find solution for my 
 ### D24
 Today I discard with nhatnguyen to working in to his project. i and nhatnguyen fix my environment to lunch in other operator system. (i run project in window). and plan for this project
 Planning to do more tomorrow: help nhatnguyen frontend home page
+
+### D25
+Today I read a book. It talks about evolution of body mankind.
+i'm in mocchau so i can't code
+
+### D26
+Today I've reading a book continous. it talk about evolution of body mankind.
+i'm in mocchau so i can't code
