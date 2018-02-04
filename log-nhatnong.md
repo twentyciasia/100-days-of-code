@@ -89,3 +89,6 @@ Display all messages in conversation.
 
 ### D25
 To day I read about http service layer because I returned home late.
+
+### D26
+Split login http request to authenticate service layer.
