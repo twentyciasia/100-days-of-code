@@ -117,11 +117,11 @@ Base Laravel - QuizSystem:
 + Not much time on coding. Because too tired, need to take a rest.
 
 ###D27: (3/2/2018)
-+ 
++ Keep read book "ng-book 2: The Complete Book on Angular 5".
 +
 
 ###D28: (4/2/2018)
-+
++ Keep read book "ng-book 2: The Complete Book on Angular 5".
 +
 
 
