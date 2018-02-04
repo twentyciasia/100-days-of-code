@@ -131,3 +131,7 @@ Started : 08-Jan-2018
 
 ### D27
 - Did nothing, I missed this day 
+
+### D28
+- Countinue Working with Jenkins CI
+- Read some software testing articles
