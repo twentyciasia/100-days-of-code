@@ -135,3 +135,7 @@ Started : 08-Jan-2018
 ### D28
 - Countinue Working with Jenkins CI
 - Read some software testing articles
+
+### D29
+- Read Ant build doc
+- Learn Groovy
