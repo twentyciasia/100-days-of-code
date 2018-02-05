@@ -105,3 +105,26 @@ podcast very useful.
     - List of handle artisan commands
     - ...
 
+### D22
+- Good intro on VueJS
+    - https://speakerdeck.com/mattstauffer/intro-to-vuejs
+- Re-learn on custom Laravel
+    - https://customlaravel.com/
+
+### D23
+- Quite tired, just read some random articles on comparing: Go n .NET Core, Angular with React, and
+RxJS
+
+### D24
+- Re-thinking on building CQRS app or EventSourcing app, CQRS is kind of limiting
+- Read more on Event Sourcing.
+
+### D25
+- Try to implement Event Sourcing with Laravel app. Bad decision.
+
+### D26
+- Tired. Finding some good books to read.
+
+### D27
+- Practising on reactive from with Angular
+- Learn on how to create a from builder with Drag and Drop
