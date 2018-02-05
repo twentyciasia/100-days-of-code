@@ -92,3 +92,6 @@ To day I read about http service layer because I returned home late.
 
 ### D26
 Split login http request to authenticate service layer.
+
+### D27
+To day I read about how to use socket.io in Angular 4.
