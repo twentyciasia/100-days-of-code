@@ -107,3 +107,25 @@ Base Laravel - QuizSystem:
 ###D24: (31/1/2018)
 + Update logic register form (API+App)
 + Read blog
+
+###D25: (1/2/2018)
++ read guide angular 5 Form Validation
++ https://codecraft.tv/courses/angular/forms/model-driven-validation/
++ https://angular.io/guide/architecture
+
+###D26: (2/2/2018)
++ Not much time on coding. Because too tired, need to take a rest.
+
+###D27: (3/2/2018)
++ Keep read book "ng-book 2: The Complete Book on Angular 5".
++
+
+###D28: (4/2/2018)
++ Keep read book "ng-book 2: The Complete Book on Angular 5".
++
+
+###D29: (5/2/2018)
++ I code back-end <QuizSystem> | create model and relationship.
++ https://github.com/ducnm9/QuizSystem/commit/12019f03afeb65f210656897719946172c41690a
+
+
