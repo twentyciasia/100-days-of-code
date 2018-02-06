@@ -124,5 +124,8 @@ Base Laravel - QuizSystem:
 + Keep read book "ng-book 2: The Complete Book on Angular 5".
 +
 
+###D29: (5/2/2018)
++ I code back-end <QuizSystem> | create model and relationship.
++ https://github.com/ducnm9/QuizSystem/commit/12019f03afeb65f210656897719946172c41690a
 
 
