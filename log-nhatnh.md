@@ -139,3 +139,9 @@ Started : 08-Jan-2018
 ### D29
 - Read Ant build doc
 - Learn Groovy
+
+### D30 
+- Go home late, did nothing
+
+### D31
+- My mac got some problems then I have to reinstall OS, lost all previous setting. Then I read phpcs - php cs fixer wiki 
