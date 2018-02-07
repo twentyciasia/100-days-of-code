@@ -121,3 +121,7 @@ Today I do nothing. i feel so tired for that trip.
 
 ### D28
 Today I can't code. my company has party for football team
+
+### D29
+Today I removed style inline code, changed to use sass file and use convention to right in html file of nhat's project. i fixed some position of homepage
+Planning to do more tomorrow: i cant push to his project. i will ask him for this. and i will fix all for use sass files
