@@ -95,3 +95,9 @@ Split login http request to authenticate service layer.
 
 ### D27
 To day I read about how to use socket.io in Angular 4.
+
+### D28
+Create socket connection and user join to chat room.
+
+### D29
+Receive messages and emit to group.
