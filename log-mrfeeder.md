@@ -115,3 +115,9 @@ i'm in mocchau so i can't code
 ### D26
 Today I've reading a book continous. it talk about evolution of body mankind.
 i'm in mocchau so i can't code
+
+### D27
+Today I do nothing. i feel so tired for that trip.
+
+### D28
+Today I can't code. my company has party for football team
