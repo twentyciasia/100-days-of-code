@@ -145,3 +145,6 @@ Started : 08-Jan-2018
 
 ### D31
 - My mac got some problems then I have to reinstall OS, lost all previous setting. Then I read phpcs - php cs fixer wiki 
+### D32
+- Need to write some documents for DevOps 
+- However , I learn different between Declarative and Scripted Pipeline in Jenkins
