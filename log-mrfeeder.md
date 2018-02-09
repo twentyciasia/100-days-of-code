@@ -125,3 +125,12 @@ Today I can't code. my company has party for football team
 ### D29
 Today I removed style inline code, changed to use sass file and use convention to right in html file of nhat's project. i fixed some position of homepage
 Planning to do more tomorrow: i cant push to his project. i will ask him for this. and i will fix all for use sass files
+
+### D30
+Today I removed all css and sass to used one file style.sass
+Planning to do more tomorrow: fix register and login to better ui
+
+### D31
+Today I fixed register and login to better ui
+Planning to do more tomorrow: write html and learn more angular
+
