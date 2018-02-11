@@ -148,3 +148,10 @@ Started : 08-Jan-2018
 ### D32
 - Need to write some documents for DevOps 
 - However , I learn different between Declarative and Scripted Pipeline in Jenkins
+
+### D33
+- Did nothing
+### D34 
+- Did nothing
+### D35 
+- Learn Docker from https://serversforhackers.com/s/docker-in-development
