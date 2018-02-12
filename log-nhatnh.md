@@ -155,3 +155,7 @@ Started : 08-Jan-2018
 - Did nothing
 ### D35 
 - Learn Docker from https://serversforhackers.com/s/docker-in-development
+
+### D36 
+- Learn more on Docker documents, 
+- Learn Linux from shared course.
