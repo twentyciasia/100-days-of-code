@@ -107,3 +107,43 @@ Planning to do more tomorrow: help nhatnguyen frontend and find solution for my 
 ### D24
 Today I discard with nhatnguyen to working in to his project. i and nhatnguyen fix my environment to lunch in other operator system. (i run project in window). and plan for this project
 Planning to do more tomorrow: help nhatnguyen frontend home page
+
+### D25
+Today I read a book. It talks about evolution of body mankind.
+i'm in mocchau so i can't code
+
+### D26
+Today I've reading a book continous. it talk about evolution of body mankind.
+i'm in mocchau so i can't code
+
+### D27
+Today I do nothing. i feel so tired for that trip.
+
+### D28
+Today I can't code. my company has party for football team
+
+### D29
+Today I removed style inline code, changed to use sass file and use convention to right in html file of nhat's project. i fixed some position of homepage
+Planning to do more tomorrow: i cant push to his project. i will ask him for this. and i will fix all for use sass files
+
+### D30
+Today I removed all css and sass to used one file style.sass
+Planning to do more tomorrow: fix register and login to better ui
+
+### D31
+Today I fixed register and login to better ui
+Planning to do more tomorrow: write html and learn more angular
+
+
+### D32
+Today I off sorry for that
+Planning to do more tomorrow: write html and learn more angular
+
+
+### D33
+Today I write html and learn more angular
+
+
+### D34
+Today I prepare for go home
+
