@@ -134,3 +134,16 @@ Planning to do more tomorrow: fix register and login to better ui
 Today I fixed register and login to better ui
 Planning to do more tomorrow: write html and learn more angular
 
+
+### D32
+Today I off sorry for that
+Planning to do more tomorrow: write html and learn more angular
+
+
+### D33
+Today I write html and learn more angular
+
+
+### D34
+Today I prepare for go home
+
