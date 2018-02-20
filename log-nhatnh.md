@@ -159,3 +159,9 @@ Started : 08-Jan-2018
 ### D36 
 - Learn more on Docker documents, 
 - Learn Linux from shared course.
+
+### Tet Holiday 
+
+### D44 
+- Continue learning Linux - File System , Working with files
+
