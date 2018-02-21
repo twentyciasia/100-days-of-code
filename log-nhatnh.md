@@ -164,4 +164,6 @@ Started : 08-Jan-2018
 
 ### D44 
 - Continue learning Linux - File System , Working with files
+### D45
+- Learning Linux - File - Permision - Vim
 
