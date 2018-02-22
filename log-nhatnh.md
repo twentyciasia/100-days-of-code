@@ -166,4 +166,5 @@ Started : 08-Jan-2018
 - Continue learning Linux - File System , Working with files
 ### D45
 - Learning Linux - File - Permision - Vim
-
+### DD46
+- Learn Swift - Basic data - operator - function - closure 
