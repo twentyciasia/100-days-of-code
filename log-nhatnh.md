@@ -172,4 +172,7 @@ Started : 08-Jan-2018
 ### D47
 - Did nothing, new year hangout with friends
 ### D48 
-Continue learn Swift - Closure - Class  
+Continue learn Swift - Closure - Class 
+
+### D49 
+Create an command line app with Xcode - Swift  
