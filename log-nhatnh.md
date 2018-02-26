@@ -175,4 +175,6 @@ Started : 08-Jan-2018
 Continue learn Swift - Closure - Class 
 
 ### D49 
-Create an command line app with Xcode - Swift  
+Create an command line app with Xcode - Swift 
+### D50
+'ve just got access permision for tw-ea project at 8pm. Spend time for working with project - build steps. Do nothing with 100dayofcode today 
