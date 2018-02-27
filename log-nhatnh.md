@@ -177,4 +177,6 @@ Continue learn Swift - Closure - Class
 ### D49 
 Create an command line app with Xcode - Swift 
 ### D50
-'ve just got access permision for tw-ea project at 8pm. Spend time for working with project - build steps. Do nothing with 100dayofcode today 
+'ve just got access permision for tw-ea project at 8pm. Spend time for working with project - build steps. Do noteing with 100dayofcode today
+### D51
+- Spend night time for refactoing Java test code from UK side. Did nothing for 100dayofcode :( 
