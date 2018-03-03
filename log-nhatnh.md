@@ -180,3 +180,9 @@ Create an command line app with Xcode - Swift
 've just got access permision for tw-ea project at 8pm. Spend time for working with project - build steps. Do noteing with 100dayofcode today
 ### D51
 - Spend night time for refactoing Java test code from UK side. Did nothing for 100dayofcode :( 
+### D52 
+- Did nothing
+### D53
+- Did nothing
+### D54     
+- Learn linux shell scripting
