@@ -115,3 +115,74 @@ Started : 08-Jan-2018
 ### D23
 - Continue writing service to POST data to rails
 - Refactor codes
+
+### D24
+- Continue read RxJS from previous article
+
+### D25 
+- Leave Project as Pending
+- Read, practice with Jenkins Azure - AWS. 
+- Read "Jenkint essentials - Second Edition" - Chapter 3 : Manage Code Quality + Chapter 7: Pipeline as Code
+
+### D26
+- Continue Read Jenkins ebook 
+- Learn using vim 
+- Learn deeper Jenkins in https://www.devopslibrary.com/lessons/jenkins-ha 
+
+### D27
+- Did nothing, I missed this day 
+
+### D28
+- Countinue Working with Jenkins CI
+- Read some software testing articles
+
+### D29
+- Read Ant build doc
+- Learn Groovy
+
+### D30 
+- Go home late, did nothing
+
+### D31
+- My mac got some problems then I have to reinstall OS, lost all previous setting. Then I read phpcs - php cs fixer wiki 
+### D32
+- Need to write some documents for DevOps 
+- However , I learn different between Declarative and Scripted Pipeline in Jenkins
+
+### D33
+- Did nothing
+### D34 
+- Did nothing
+### D35 
+- Learn Docker from https://serversforhackers.com/s/docker-in-development
+
+### D36 
+- Learn more on Docker documents, 
+- Learn Linux from shared course.
+
+### Tet Holiday 
+
+### D44 
+- Continue learning Linux - File System , Working with files
+### D45
+- Learning Linux - File - Permision - Vim
+### D46
+- Learn Swift - Basic data - operator - function - closure
+
+### D47
+- Did nothing, new year hangout with friends
+### D48 
+Continue learn Swift - Closure - Class 
+
+### D49 
+Create an command line app with Xcode - Swift 
+### D50
+'ve just got access permision for tw-ea project at 8pm. Spend time for working with project - build steps. Do noteing with 100dayofcode today
+### D51
+- Spend night time for refactoing Java test code from UK side. Did nothing for 100dayofcode :( 
+### D52 
+- Did nothing
+### D53
+- Did nothing
+### D54     
+- Learn linux shell scripting
